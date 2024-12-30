@@ -3,4 +3,4 @@
 # Ignore the build directory
 /build/
 # Ignore temporary files
-*.tmp
+*.tmpgit 
